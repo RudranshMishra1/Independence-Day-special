@@ -13,5 +13,3 @@ It includes category filters, search, an individual indicator chart, and source/
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-The CSV is a starter dataset. Replace and expand it with verified source data before publishing.
